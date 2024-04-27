@@ -7,8 +7,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samirampanta&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dracula)"
+    srcset="https://github-readme-stats.vercel.app/api?username=samirampanta&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=samirampanta&show_icons=true"
